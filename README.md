@@ -1,1 +1,1 @@
-# fedu – competitor dashboard
+# fedu – dashboard
